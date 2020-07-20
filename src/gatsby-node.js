@@ -72,6 +72,7 @@ exports.sourceNodes = (
         pagenum: '',
         status: '',
         title: '',
+        title_secondary: '',
         volume: '',
         publisher: '',
         pubctyst: '',
